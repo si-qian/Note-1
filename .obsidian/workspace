@@ -7,8 +7,12 @@
         "id": "68a422abbf62d0f2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "稼轩词.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "稼轩词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +90,7 @@
   "active": "68a422abbf62d0f2",
   "lastOpenFiles": [
     "稼轩词.md",
+    "README.md",
     "未命名.md"
   ]
 }
