@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "cbb5d68f4eac2002",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a422abbf62d0f2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "666305b18dc460e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4444d75e0cdd803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb62f86bf0f06453",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdfd830a1ff6d5af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "183c21107e210b99",
+    "type": "split",
+    "children": [
+      {
+        "id": "802822d228da0bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc3f573d0e1d159",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "68a422abbf62d0f2",
+  "lastOpenFiles": [
+    "稼轩词.md",
+    "未命名.md"
+  ]
+}
